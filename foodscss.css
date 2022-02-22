@@ -1,0 +1,43 @@
+body  {
+  color: white;
+  background-image: url("E:/HTML/backimage.jpg");
+  background-repeat: no-repeat;
+  background-color: #47C9F5;
+}
+
+table, th, td {
+  color: white;
+  border: 2px solid white;
+  border-collapse: collapse;
+  padding: 15px;
+  background-color: #2A1C10;
+}
+
+#heading {
+	font-size:65px;
+}
+
+#heading2 {
+	font-size:50px;
+}
+
+#apple {
+	border: 1px solid black;
+	background-color: #D6EEEE;
+	padding: 20px;
+}
+
+.offers {
+	 border: 2px solid white;
+	 background-color: #2A1C10;
+	 padding: 10px;
+}
+    
+.finalform {
+	font-size:20px;
+	padding: 10px;
+}
+
+.rate {
+	font-size:40px;
+}
